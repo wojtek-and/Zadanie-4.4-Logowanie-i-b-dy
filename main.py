@@ -1,3 +1,7 @@
+"""
+The function works like a simple calculator, performing addition, subtraction, multiplication and division after entering any two numbers.
+"""
+
 import logging
 logging.basicConfig(level=logging.DEBUG)
 
